@@ -1,4 +1,4 @@
 {
-  "changelog": "Test of the FX Cache beta update notification.",
-  "version": "2.2.1"
+  "changelog": "Added UI scaling and a panel refresh button.",
+  "version": "2.2.3"
 }
